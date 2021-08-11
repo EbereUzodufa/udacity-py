@@ -1,5 +1,5 @@
-DROP DATABASE IF EXISTS bookshelf;
-DROP DATABASE IF EXISTS bookshelf_test;
+-- DROP DATABASE IF EXISTS bookshelf;
+-- DROP DATABASE IF EXISTS bookshelf_test;
 DROP USER IF EXISTS student;
 CREATE DATABASE bookshelf;
 CREATE DATABASE bookshelf_test;
